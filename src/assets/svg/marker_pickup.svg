@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="159px" height="270px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 38.4167 65.3028"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#00C8C8}
+    .fil0 {fill:white}
+    .fil2 {fill:url(#id0)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" cx="19.1313" cy="19.3741" r="9.28341" fx="19.1313" fy="19.3741">
+   <stop offset="0" style="stop-color:#00A1A1"/>
+   <stop offset="0.619608" style="stop-color:#00AAAA"/>
+   <stop offset="0.701961" style="stop-color:#00C8C8"/>
+   <stop offset="1" style="stop-color:#00C8C8"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_350443744">
+   <path id="_350443840" class="fil0" d="M19.2206 58.4994c4.50877,0 8.16406,1.52299 8.16406,3.40169 0,1.87842 -3.65528,3.40169 -8.16406,3.40169 -4.50877,0 -8.16377,-1.52327 -8.16377,-3.40169 0,-1.8787 3.655,-3.40169 8.16377,-3.40169z"/>
+   <path id="_350444464" class="fil1" d="M19.2081 0c0.755931,0 1.50074,0.0476379 2.23356,0.137779l0.201962 0.0248174 0.0427886 0.00570514c8.58938,1.14759 15.3816,8.06393 16.4573,16.7794 0.178286,1.11564 0.272991,2.26209 0.272991,3.43164 0,0.885438 -0.0533431,1.75775 -0.156606,2.6141l0.000285257 0 -0.000855771 0.00171154c-1.39605,9.86704 -12.4586,10.5012 -18.3706,35.1924 -0.515745,1.6137 -1.03006,1.55265 -1.54524,-0.0359424 -3.07536,-19.9871 -16.4023,-23.1555 -18.1789,-35.0963l-0.00142629 -0.00570514 0.000855771 0c-0.107827,-0.873742 -0.164308,-1.76517 -0.164308,-2.67029 0,-0.358853 0.00912823,-0.71571 0.0265289,-1.06971 0.0345161,-10.67 8.58681,-19.3096 19.1328,-19.3096l0.0251026 0.000570514 0.0236763 -0.000570514zm-0.0484937 9.57294c5.34572,0 9.67963,4.38868 9.67963,9.80115 0,5.41247 -4.33391,9.80115 -9.67963,9.80115 -5.34572,0 -9.67934,-4.38868 -9.67934,-9.80115 0,-5.41247 4.33363,-9.80115 9.67934,-9.80115z"/>
+   <ellipse id="_350443432" class="fil2" cx="19.1314" cy="19.3741" rx="12.4012" ry="12.5815"/>
+   <ellipse id="_350443192" class="fil0" cx="19.1315" cy="19.3741" rx="9.6624" ry="9.80292"/>
+   <circle id="_350443408" class="fil1" cx="15.5844" cy="18.8224" r="1.5093"/>
+   <circle id="_350443312" class="fil1" cx="23.0011" cy="18.8224" r="1.5093"/>
+  </g>
+ </g>
+</svg>

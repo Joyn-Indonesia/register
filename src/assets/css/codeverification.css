@@ -1,0 +1,24 @@
+.characters {
+  height: 75px;
+}
+
+.character {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 50px;
+  font-size: 36px;
+  background-color: #ecf0f1;
+  border: 1px solid ecf0f1;
+  border-radius: 8px;
+  color: black;
+  margin-left: 8px;
+}
+
+.character--inactive {
+  background-color: #bdc3c7;
+}
+
+.character--selected {
+  background-color: #f6f6f6;
+}
